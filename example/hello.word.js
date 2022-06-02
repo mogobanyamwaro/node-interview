@@ -10,7 +10,7 @@ const bubbleSort = (arr) => {
   }
   return arr;
 };
-console.log(bubbleSort([5, 3, 8]));
+// console.log(bubbleSort([5, 3, 8]));
 
 //Insertion Sort
 function insertionSort(arr) {
@@ -27,3 +27,4 @@ function insertionSort(arr) {
   }
   return arr;
 }
+console.log(insertionSort([5, 3, 8]));
